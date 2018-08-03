@@ -17,7 +17,7 @@ This is a sample code to read any given CSV files, the sample has the following 
 
 If you discover a security vulnerability in this repo, please send an e-mail to Abner Morales via [developer@abnermoralesr.com](mailto:developer@abnermoralesr.com). All security vulnerabilities will be promptly addressed.
 
-## Notes:
+## Notes
 If you need the object oriented solution please [visit this repo](https://github.com/abnermoralesr/php-simple-csv-reader-oop-psr2-compliant).
 
 ## License
